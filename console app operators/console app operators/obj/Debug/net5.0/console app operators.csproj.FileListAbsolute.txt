@@ -1,0 +1,16 @@
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\bin\Debug\net5.0\console app operators.exe
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\bin\Debug\net5.0\console app operators.deps.json
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\bin\Debug\net5.0\console app operators.runtimeconfig.json
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\bin\Debug\net5.0\console app operators.runtimeconfig.dev.json
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\bin\Debug\net5.0\console app operators.dll
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\bin\Debug\net5.0\ref\console app operators.dll
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\bin\Debug\net5.0\console app operators.pdb
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.dll
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\ref\console app operators.dll
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.pdb
+C:\Users\Johannes\Desktop\operators class\console app operators\console app operators\obj\Debug\net5.0\console app operators.genruntimeconfig.cache
