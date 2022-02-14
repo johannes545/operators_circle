@@ -9,10 +9,15 @@ namespace console_app_operators
         {
             int num1 = 17;
             int num2 = 4;
+            int quota = num1 / num2;
+            int answer = num1 % num2;
+            if (num1 == 17 && num2 == 4)
+            {
+                Console.WriteLine($"{num1}/{num2} is {quota} remainder is {answer}");
+            }
+            
 
-            int answer = num1 %= num2;
 
-            Console.WriteLine(answer);
 
 
             double pi = 3.14;
