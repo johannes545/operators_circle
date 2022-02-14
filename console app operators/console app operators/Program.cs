@@ -33,7 +33,7 @@ namespace console_app_operators
         public static double AreaOfCircle(double pi, double radius)
         {
 
-            return (pi * radius * radius);
+            return Math.PI * Math.Pow(radius, 2);
          
         }
 
